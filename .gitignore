@@ -50,6 +50,15 @@ src/qt/bitcoin-qt.creator.user
 src/qt/bitcoin-qt.files
 src/qt/bitcoin-qt.includes
 
+src/bitcoind.config
+src/bitcoind.creator
+src/bitcoind.creator.user
+src/bitcoind.files
+src/bitcoind.includes
+
+src/cscope.*
+src/tags
+
 .deps
 .dirstamp
 .libs
